@@ -1,0 +1,74 @@
+{
+    "fotos": [
+        {
+            "id": "1",
+            "titulo": "Gran Nube de Magallanes",
+            "fuente": "Alura Space",
+            "path": "/imagenes/galeria/foto-1.png",
+            "tagId": 2
+        },
+        {
+            "id": "2",
+            "titulo": "Vía Láctea",
+            "fuente": "Alura Space",
+            "path": "/imagenes/galeria/foto-2.png",
+            "tagId": 2
+        },
+        {
+            "id": "3",
+            "titulo": "Luna: cuarto menguante",
+            "fuente": "Alura Space",
+            "path": "/imagenes/galeria/foto-3.png",
+            "tagId": 3
+        },
+        {
+            "id": "4",
+            "titulo": "Galaxia de Andrómeda",
+            "fuente": "Alura Space",
+            "path": "/imagenes/galeria/foto-4.png",
+            "tagId": 2
+        },
+        {
+            "id": "5",
+            "titulo": "Estrella Pistola",
+            "fuente": "Alura Space",
+            "path": "/imagenes/galeria/foto-5.png",
+            "tagId": 1
+        },
+        {
+            "id": "6",
+            "titulo": "Ilustración",
+            "fuente": "Alura Space",
+            "path": "/imagenes/galeria/foto-6.png",
+            "tagId": 4
+        },
+        {
+            "id": "7",
+            "titulo": "Galaxia de Andrómeda",
+            "fuente": "Alura Space",
+            "path": "/imagenes/galeria/foto-7.png",
+            "tagId": 2
+        },
+        {
+            "id": "8",
+            "titulo": "Ilustración",
+            "fuente": "Alura Space",
+            "path": "/imagenes/galeria/foto-8.png",
+            "tagId": 4
+        },
+        {
+            "id": "9",
+            "titulo": "Cielo estrellado",
+            "fuente": "Alura Space",
+            "path": "/imagenes/galeria/foto-9.png",
+            "tagId": 1
+        },
+        {
+            "id": "10",
+            "titulo": "Ilustración",
+            "fuente": "Alura Space",
+            "path": "/imagenes/galeria/foto-10.png",
+            "tagId": 1
+        }
+    ]
+}
